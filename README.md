@@ -111,8 +111,7 @@
 - **Curso Profesional de Git y GitHub – Platzi**  
   Aprendí a manejar control de versiones, trabajar con ramas, pull requests y flujos colaborativos usando Git y GitHub.  
   [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/cursos/git-github/)  
-  [🎓 Ver certificado](https://platzi.com/p/tu-usuario/cursos/curso-profesional-git-github/diploma/detalle/)
-## Cursos y Certificaciones
+  [🎓 Ver certificado]()
 
 - **Curso de Principios SOLID en C# y .NET – Platzi**  
   Aplicación práctica de los principios SOLID para escribir código limpio, mantenible y escalable con C# y el ecosistema .NET.  
@@ -126,6 +125,7 @@
   Fundamentos de cultura DevOps, automatización, integración y entrega continua para mejorar la colaboración entre desarrollo y operaciones.  
   [![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=white)](https://platzi.com/cursos/devops/)
   [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/cursos/devops/)
+  <!-- Reemplaza el enlace de abajo por el tuyo si tienes el certificado público -->
   [🎓 Ver certificado](https://platzi.com/p/hector.gutierrez9195/curso/4558-course/diploma/detalle/)
 
 
