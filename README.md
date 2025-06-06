@@ -106,6 +106,28 @@
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
+## Cursos y Certificaciones
+
+- **Curso Profesional de Git y GitHub – Platzi**  
+  Aprendí a manejar control de versiones, trabajar con ramas, pull requests y flujos colaborativos usando Git y GitHub.  
+  [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/cursos/git-github/)  
+  [🎓 Ver certificado](https://platzi.com/p/tu-usuario/cursos/curso-profesional-git-github/diploma/detalle/)
+## Cursos y Certificaciones
+
+- **Curso de Principios SOLID en C# y .NET – Platzi**  
+  Aplicación práctica de los principios SOLID para escribir código limpio, mantenible y escalable con C# y el ecosistema .NET.  
+  [![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+  [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+  [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/cursos/solid-dotnet/)
+  <!-- Reemplaza el enlace de abajo por el tuyo si tienes el certificado público -->
+  [🎓 Ver certificado](https://platzi.com/p/hector.gutierrez9195/curso/4761-course/diploma/detalle/)
+
+- **Curso de Introducción a DevOps – Platzi**  
+  Fundamentos de cultura DevOps, automatización, integración y entrega continua para mejorar la colaboración entre desarrollo y operaciones.  
+  [![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=white)](https://platzi.com/cursos/devops/)
+  [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/cursos/devops/)
+  [🎓 Ver certificado](https://platzi.com/p/hector.gutierrez9195/curso/4558-course/diploma/detalle/)
+
 
 ## Contacto
 Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme a través de gutierrez.h3ctor@gmail.com
