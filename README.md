@@ -36,7 +36,7 @@
   [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 
-- **Java + Spring Boot Starter Parent + Maven **  
+- **Java + Spring Boot Starter Parent + Maven**  
   Conocimientos básicos en desarrollo de aplicaciones backend con Java 17, utilizando el framework Spring Boot 3 para crear microservicios y APIs REST, con Maven como herramienta de gestión de dependencias y construcción de proyectos.  
   [![Java](https://img.shields.io/badge/Java_17-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
   [![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
