@@ -7,6 +7,12 @@
 
 ¡Hola! Soy un Ingeniero en computación con más de 6 años de experiencia en garantizar la calidad del software. He liderado pruebas funcionales, no funcionales y automatizadas, especializándome en la estimación de tiempos y la planificación estratégica de pruebas.
 
+## 🌐 Mi sitio web
+
+Puedes visitar mi sitio personal en el siguiente enlace:
+
+👉 [h3ctor89.github.io](https://h3ctor89.github.io/)
+
 
 ## 💼 Habilidades y Experiencia
 
