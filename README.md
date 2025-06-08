@@ -14,6 +14,12 @@ Puedes visitar mi sitio personal en el siguiente enlace:
 👉 [h3ctor89.github.io](https://h3ctor89.github.io/)
 
 
+⚡ Actividad reciente
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity--> 
+
 ## 💼 Habilidades y Experiencia
 
 
