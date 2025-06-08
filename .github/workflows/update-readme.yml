@@ -1,0 +1,18 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '* */12 * * *' # Cada 12 horas
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+    
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Readme-Workflows/recent-activity@v2.4.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          readme-file: README.md       # Archivo donde buscar y actualizar el bloque
+          section-marker: activity     # Nombre del marcador, por defecto 'activity'
