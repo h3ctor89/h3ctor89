@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Cada 12 horas
+    - cron: '* */12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,12 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Update Recent Activity
-        uses: Readme-Workflows/recent-activity@v2
-        with:
+    steps:
+      - uses: actions/checkout@v3
+      - uses: h3ctor89/github-activity-readme@master
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MSG: "📌 Actualizada actividad reciente"
-          MAX_LINES: 8  # Límite de actividades a mostrar
