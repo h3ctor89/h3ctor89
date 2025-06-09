@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
     steps:
-      - uses: actions/checkout@v4  # Versión actualizada
+      - uses: actions/checkout@v4
 
-      - uses: Readme-Workflows/recent-activity@v5
+      - name: Update Recent Activity
+        uses: Readme-Workflows/recent-activity@v2
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Funcionará con los permisos
-          COMMIT_MSG: "Actualizada actividad reciente"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: "📌 Actualizada actividad reciente"
           MAX_LINES: 8  # Límite de actividades a mostrar
