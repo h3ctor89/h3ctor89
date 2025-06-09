@@ -15,9 +15,9 @@ Puedes visitar mi sitio personal en el siguiente enlace:
 
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:activity-->
 
-<!--END_SECTION:activity--> 
+<!--RECENT_ACTIVITY:activity--> 
 
 
 ## 💼 Habilidades y Experiencia
