@@ -2,22 +2,21 @@ name: Update README
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "* */12 * * *"  # cada 30 minutos
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Update this repo's README with recent activity
+  update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
-      - uses: h3ctor89/github-activity-readme@main
+      - uses: jamesgeorge007/github-activity-readme@v0.4.5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Specify a custom commit message"
+          COMMIT_MSG: "Actualización automática del README"
           MAX_LINES: 10
-          COMMIT_NAME: GitHub Activity Readme
+          COMMIT_NAME: "GitHub Activity Bot"
