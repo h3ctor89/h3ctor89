@@ -141,16 +141,16 @@ Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contacta
 
 ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/h3ctor89/miCuartoRepo/issues/1) in [h3ctor89/miCuartoRepo](https://github.com/h3ctor89/miCuartoRepo)
-2. 🎉 Merged PR [#10](https://github.com/h3ctor89/miPrimerRepo/pull/10) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
-3. 🎉 Merged PR [#9](https://github.com/h3ctor89/miPrimerRepo/pull/9) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
-4. 🎉 Merged PR [#8](https://github.com/h3ctor89/miPrimerRepo/pull/8) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
-5. 💪 Opened PR [#8](https://github.com/h3ctor89/miPrimerRepo/pull/8) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
-6. 🔒 Closed issue [#6](https://github.com/h3ctor89/miPrimerRepo/issues/6) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
-7. 🎉 Merged PR [#7](https://github.com/h3ctor89/miPrimerRepo/pull/7) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
-8. 💪 Opened PR [#7](https://github.com/h3ctor89/miPrimerRepo/pull/7) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
-9. ❗ Opened issue [#6](https://github.com/h3ctor89/miPrimerRepo/issues/6) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
-10. 🔒 Closed issue [#4](https://github.com/h3ctor89/miPrimerRepo/issues/4) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
+1. 🚀 Published release [v0.1.0](https://github.com/h3ctor89/tercerRepo/releases/tag/v0.1.0) in [h3ctor89/tercerRepo](https://github.com/h3ctor89/tercerRepo)
+2. 🎉 Merged PR [#3](https://github.com/h3ctor89/miCuartoRepo/pull/3) in [h3ctor89/miCuartoRepo](https://github.com/h3ctor89/miCuartoRepo)
+3. 💪 Opened PR [#3](https://github.com/h3ctor89/miCuartoRepo/pull/3) in [h3ctor89/miCuartoRepo](https://github.com/h3ctor89/miCuartoRepo)
+4. 🎉 Merged PR [#2](https://github.com/h3ctor89/miCuartoRepo/pull/2) in [h3ctor89/miCuartoRepo](https://github.com/h3ctor89/miCuartoRepo)
+5. 💪 Opened PR [#2](https://github.com/h3ctor89/miCuartoRepo/pull/2) in [h3ctor89/miCuartoRepo](https://github.com/h3ctor89/miCuartoRepo)
+6. ❗ Opened issue [#1](https://github.com/h3ctor89/miCuartoRepo/issues/1) in [h3ctor89/miCuartoRepo](https://github.com/h3ctor89/miCuartoRepo)
+7. 🎉 Merged PR [#10](https://github.com/h3ctor89/miPrimerRepo/pull/10) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
+8. 🎉 Merged PR [#9](https://github.com/h3ctor89/miPrimerRepo/pull/9) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
+9. 🎉 Merged PR [#8](https://github.com/h3ctor89/miPrimerRepo/pull/8) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
+10. 💪 Opened PR [#8](https://github.com/h3ctor89/miPrimerRepo/pull/8) in [h3ctor89/miPrimerRepo](https://github.com/h3ctor89/miPrimerRepo)
 <!--END_SECTION:activity-->
 
 ---
